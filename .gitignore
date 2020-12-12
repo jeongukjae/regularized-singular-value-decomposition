@@ -123,3 +123,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/ml-10m.zip
+/ml-10M100K
